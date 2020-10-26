@@ -1,0 +1,25 @@
+.nicEdit-panel > div > * {
+    opacity: 1 !important;
+}
+
+
+.nicEdit-buttonContain {
+    padding: .5em;
+}
+.nicEdit-panelContain{
+
+}
+
+.nicEdit-selectContain{
+    margin-top: 8px;
+    padding:.1em
+}
+
+.nicEdit-selectTxt{
+    font-family: Tahoma !important;
+    font-size: 12px !important;
+}
+
+.nicEdit-main{
+    outline: 0;
+}

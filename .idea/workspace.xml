@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cb608f2-af22-4fc8-94aa-7a4a58b0ed67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idGh6YNxZ8fPVtaJryUYFw4J5l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\_.CORE-PHP\PHP-MVC" />
+      <recent name="C:\xampp\htdocs\_.CORE-PHP\PHP-MVC\App" />
+      <recent name="C:\xampp\htdocs\_.CORE-PHP\PHP-MVC\App\Config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\_.CORE-PHP\ME-SITE" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb608f2-af22-4fc8-94aa-7a4a58b0ed67" name="Default Changelist" comment="" />
+      <created>1602230172277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602230172277</updated>
+      <workItem from="1602230173413" duration="17589000" />
+      <workItem from="1602275654910" duration="4047000" />
+      <workItem from="1602316489802" duration="13230000" />
+      <workItem from="1602335787128" duration="9880000" />
+      <workItem from="1602410999111" duration="86000" />
+      <workItem from="1602422426369" duration="6686000" />
+      <workItem from="1602488062968" duration="54000" />
+      <workItem from="1602509240143" duration="3463000" />
+      <workItem from="1602533194280" duration="3982000" />
+      <workItem from="1602582719070" duration="598000" />
+      <workItem from="1602630268463" duration="1865000" />
+      <workItem from="1602754324966" duration="68000" />
+      <workItem from="1602756901254" duration="15949000" />
+      <workItem from="1602849089587" duration="21476000" />
+      <workItem from="1602928245767" duration="11000" />
+      <workItem from="1602928343363" duration="3870000" />
+      <workItem from="1602932503139" duration="2834000" />
+      <workItem from="1602939378643" duration="7824000" />
+      <workItem from="1603020958684" duration="21054000" />
+      <workItem from="1603064511303" duration="1857000" />
+      <workItem from="1603087098080" duration="10785000" />
+      <workItem from="1603105649129" duration="3964000" />
+      <workItem from="1603132383960" duration="21000" />
+      <workItem from="1603183815052" duration="10118000" />
+      <workItem from="1603196621931" duration="14143000" />
+      <workItem from="1603283824485" duration="15002000" />
+      <workItem from="1603353470655" duration="19133000" />
+      <workItem from="1603398500381" duration="59000" />
+      <workItem from="1603529456081" duration="10772000" />
+      <workItem from="1603561896245" duration="5094000" />
+      <workItem from="1603628378996" duration="2023000" />
+      <workItem from="1603630567394" duration="3161000" />
+      <workItem from="1603704140277" duration="2544000" />
+      <workItem from="1603719281088" duration="1050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="47" key="#PHP" timestamp="1602939694813">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="390" y="47" key="#PHP/0.40.1366.728@0.40.1366.728" timestamp="1602939694813" />
+    <state x="1896" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603630072971">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="1896" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1603630072971" />
+    <state x="448" y="223" key="FileChooserDialogImpl" timestamp="1603398561216">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="1786" y="247" key="FileChooserDialogImpl/0.40.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1602583320403" />
+    <state x="1891" y="216" key="FileChooserDialogImpl/0.40.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1603064805907" />
+    <state x="448" y="223" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1603398561216" />
+    <state x="456" y="127" key="NewPhpClassDialog" timestamp="1603535560079">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="456" y="127" key="NewPhpClassDialog/0.40.1366.728/1366.0.1280.984@0.40.1366.728" timestamp="1603202616295" />
+    <state x="1793" y="118" key="NewPhpClassDialog/0.40.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1603194757334" />
+    <state x="456" y="127" key="NewPhpClassDialog/0.40.1366.728/1366.0.1600.860@0.40.1366.728" timestamp="1602534814394" />
+    <state x="1900" y="103" key="NewPhpClassDialog/0.40.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1603039845140" />
+    <state x="456" y="127" key="NewPhpClassDialog/0.40.1366.728@0.40.1366.728" timestamp="1603535560079" />
+    <state x="1840" y="415" key="NewPhpFileDialog" timestamp="1603370958128">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="506" y="347" key="NewPhpFileDialog/0.40.1366.728/1366.0.1280.984@0.40.1366.728" timestamp="1603202700944" />
+    <state x="1840" y="415" key="NewPhpFileDialog/0.40.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1603370958128" />
+    <state x="506" y="347" key="NewPhpFileDialog/0.40.1366.728/1366.0.1600.860@0.40.1366.728" timestamp="1602533784080" />
+    <state x="1959" y="363" key="NewPhpFileDialog/0.40.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1603037520983" />
+    <state x="506" y="347" key="NewPhpFileDialog/0.40.1366.728@0.40.1366.728" timestamp="1603308450450" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603189615601">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.40.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1603189615601" />
+    <state x="1559" y="139" width="1103" height="715" key="dock-window-1" timestamp="1603198382402">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1559" y="139" width="1103" height="715" key="dock-window-1/0.40.1366.728/1366.0.1280.984@0.40.1366.728" timestamp="1603198382402" />
+    <state x="1763" y="168" width="788" height="800" key="run.anything.popup" timestamp="1603628746976">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="339" y="182" key="run.anything.popup/0.40.1366.728/1366.0.1280.984@0.40.1366.728" timestamp="1603104593949" />
+    <state x="1684" y="192" key="run.anything.popup/0.40.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1603104643491" />
+    <state x="1763" y="168" width="788" height="800" key="run.anything.popup/0.40.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1603628746976" />
+    <state x="339" y="182" width="672" height="677" key="run.anything.popup/0.40.1366.728@0.40.1366.728" timestamp="1603535445856" />
+  </component>
+</project>
